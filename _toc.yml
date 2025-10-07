@@ -4,8 +4,14 @@
 format: jb-book
 root: home-jupyter
 chapters:
-- file: jupyter-notebook-template-copernicus
-#   title: Title to appear on the left hand pane (Defaults to the Title in the notebook)
+- file: tutorial #jupyter-notebook-template-copernicus
+   title: Tutorial
+- file: how_to_guides
+   title: How-To Guides
+- file: reference
+   title: Reference
+- file: explanation
+   title: Explanation
 # - file: example-notebook
 #   title: Example notebook
 
