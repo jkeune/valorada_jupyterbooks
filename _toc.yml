@@ -4,14 +4,14 @@
 format: jb-book
 root: home-jupyter
 chapters:
-- file: tutorial #jupyter-notebook-template-copernicus
-   title: Tutorial
+- file: tutorial
+  title: Tutorial
 - file: how_to_guides
-   title: How-To Guides
+  title: How-To Guides
 - file: reference
-   title: Reference
+  title: Reference
 - file: explanation
-   title: Explanation
+  title: Explanation
 # - file: example-notebook
 #   title: Example notebook
 
